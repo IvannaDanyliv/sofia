@@ -1,0 +1,33 @@
+body {
+    font-family: sans-serif;
+    background: 
+    url(https://cdn.pixabay.com/photo/2020/05/16/10/36/coffee-5176961_1280.jpg) ;
+
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    
+}
+.h{
+    margin-left: 100px;
+    font-size: 30px;
+    float: right;
+}
+img{
+    width: 110px;
+    height: 110px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+td{
+    margin: 25px;
+    font-size: 20px;
+}
+.h{
+    margin-left: 40px;
+}
+.n{
+  width: 70px;
+  height: 70px;
+}
